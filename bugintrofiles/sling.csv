@@ -1,0 +1,7 @@
+"project","linenumber","path","revision","issuecode","fixrevision"
+"sling","40","src/test/java/org/apache/sling/launchpad/LaunchpadReadyRule.java","f13ab49d711cf43b9c5b19eb073ae587f7e68ed9","SLING-74","a34a746b0e3f459b7d9090af55360aa968400c55"
+"sling","40","src/test/java/org/apache/sling/launchpad/LaunchpadReadyRule.java","f13ab49d711cf43b9c5b19eb073ae587f7e68ed9","SLING-748","a34a746b0e3f459b7d9090af55360aa968400c55"
+"sling","41","src/test/java/org/apache/sling/launchpad/LaunchpadReadyRule.java","f13ab49d711cf43b9c5b19eb073ae587f7e68ed9","SLING-74","ba9f6f657d0e70cdc1c0d8938503c530a46ed9fe"
+"sling","41","src/test/java/org/apache/sling/launchpad/LaunchpadReadyRule.java","f13ab49d711cf43b9c5b19eb073ae587f7e68ed9","SLING-748","ba9f6f657d0e70cdc1c0d8938503c530a46ed9fe"
+"sling","49","src/test/java/org/apache/sling/launchpad/LaunchpadReadyRule.java","f13ab49d711cf43b9c5b19eb073ae587f7e68ed9","SLING-74","ba9f6f657d0e70cdc1c0d8938503c530a46ed9fe"
+"sling","49","src/test/java/org/apache/sling/launchpad/LaunchpadReadyRule.java","f13ab49d711cf43b9c5b19eb073ae587f7e68ed9","SLING-748","ba9f6f657d0e70cdc1c0d8938503c530a46ed9fe"

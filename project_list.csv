@@ -1,0 +1,50 @@
+JENA,https://github.com/apache/jena.git,ok,,
+AXIS,https://github.com/apache/axis-axis1-java.git,collected,,
+CAMEL,https://github.com/apache/camel.git,running szz,,
+CAY,https://github.com/apache/cayenne.git,collected,,
+CONFIGURATION,https://github.com/apache/commons-configuration.git,collected,,
+LANG,https://github.com/apache/commons-lang.git,collected,,
+MATH,https://github.com/apache/commons-math.git,ok,,
+CXF,https://github.com/apache/cxf.git,collected,,
+DERBY,https://github.com/apache/derby.git,will run szz,,
+DIRSERVER,https://github.com/apache/directory-server.git,will run szz,,
+DIRSTUDIO,https://github.com/apache/directory-studio.git,ok,,
+FELIX,https://github.com/apache/felix.git,collected,,
+GROOVY,https://github.com/apache/groovy.git,collected,,
+HTTPCLIENT,https://github.com/apache/httpcomponents-client.git,collected,,
+HTTPCORE,https://github.com/apache/httpcomponents-core.git,collected,,
+IGNITE,https://github.com/apache/ignite.git,ok,,
+IMPALA,https://github.com/apache/impala.git,collected,,
+ISIS,https://github.com/apache/isis.git,ok,,
+JCR,https://github.com/apache/jackrabbit.git,ok,,
+JCLOUDS,https://github.com/apache/jclouds.git,ok,,
+KARAF,https://github.com/apache/karaf.git,collected,,
+LOG4J2,https://github.com/apache/logging-log4j2.git,ok,,
+MAHOUT,https://github.com/apache/mahout.git,ok,,
+MARMOTTA,https://github.com/apache/marmotta.git,ok,,
+MNG,https://github.com/apache/maven.git,ok,,
+SCM,https://github.com/apache/maven-scm.git,collected,,
+DIRMINA,https://github.com/apache/mina.git,collected,,
+MYFACES,https://github.com/apache/myfaces.git,I have it,got all commits,buggymethods
+TOBAGO,https://github.com/apache/myfaces-tobago.git,I have it,got all commits,buggymethods
+TRINIDAD,https://github.com/apache/myfaces-trinidad.git,I have it,got all commits,buggymethods
+NUTCH,https://github.com/apache/nutch.git,I have it,got all commits,buggymethods
+ODE,https://github.com/apache/ode.git,I have it,got all commits,buggymethods
+OFBIZ,https://github.com/apache/ofbiz-framework.git,I have it,got all commits,buggymethods
+OPENJPA,https://github.com/apache/openjpa.git,I have it,got all commits,buggymethods
+OPENMEETINGS,https://github.com/apache/openmeetings.git,I have it,got all commits,buggymethods
+OWB,https://github.com/apache/openwebbeans.git,I have it,got all commits,buggymethods
+PDFBOX,https://github.com/apache/pdfbox.git,I have it,got all commits,buggymethods
+QPID,https://github.com/apache/qpid.git,I have it,got all commits,buggymethods
+QPIDJMS,https://github.com/apache/qpid-jms.git,will run szz,got all commits,buggymethods
+SM,https://github.com/apache/servicemix3.git,I have it,got all commits,
+SPARK,https://github.com/apache/spark.git,will run szz,got all commits,
+SYNCOPE,https://github.com/apache/syncope.git,will run szz,got all commits,
+TAPESTRY,https://github.com/apache/tapestry4.git,I have it,got all commits,
+TAP5,https://github.com/apache/tapestry-5.git,I have it,got all commits,
+TIKA,https://github.com/apache/tika.git,I have it,got all commits,
+TINKERPOP,https://github.com/apache/tinkerpop.git,I have it,got all commits,
+WICKET,https://github.com/apache/wicket.git,I have it,,
+ZOOKEEPER,https://github.com/apache/zookeeper.git,collected,,
+ARTEMIS,https://github.com/apache/activemq-artemis.git,collected,,
+AVRO,https://github.com/apache/avro.git,collected,,
